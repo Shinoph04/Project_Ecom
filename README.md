@@ -1,6 +1,8 @@
 # EcomAnalytics — Web Sessions Data
 
 ## Nguồn dữ liệu
+Project này sử dụng **Google Analytics Sample dataset** từ BigQuery Public Datasets. Bộ dữ liệu chứa dữ liệu Google Analytics 360 đã được ẩn danh/làm mờ từ **Google Merchandise Store**, một website thương mại điện tử của Google. Dù không phải dữ liệu thô nguyên bản, dữ liệu vẫn phản ánh tương đối thực tế hành vi người dùng trên website e-commerce, bao gồm phiên truy cập, nguồn traffic, thiết bị, quốc gia, lượt xem trang, giao dịch và doanh thu.
+
 Export từ Google BigQuery, chứa dữ liệu hành vi người dùng trên website thương mại điện tử.
 
 - **File gốc:** `bq-results-20260419-043458-1776573372834.csv`
