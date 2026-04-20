@@ -27,3 +27,14 @@ Export từ Google BigQuery, chứa dữ liệu hành vi người dùng trên we
 ## Lưu ý
 - `is_converted = 1` khi `transactions > 0`
 - Dữ liệu được import vào SQL Server database `EcomAnalytics`
+
+## Phân tích trực quan
+
+### Traffic Acquisition
+![Traffic Acquisition](page1_traffic_acquisition.png)
+
+### Conversion Analysis
+![Conversion Analysis](page2_conversion.png)
+
+### Device Behavior
+![Device Behavior](page3_device_behavior.png)
